@@ -13,8 +13,17 @@
 <div>
  <br>
  <a href="https://github.com/milenaghislenir">
-  <div>  
-    <img width="35%" height="150px" src="https://github-readme-stats.vercel.app/api?username=milenaghislenir&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-    <img width="28%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaghislenir&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  </div>
+<div>  
+  <img width="35%" height="150px" src="https://github-readme-stats.vercel.app/api?username=milenaghislenir&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
+  <img width="28%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaghislenir&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mile-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Mile-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Mile-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mile-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mile-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mile-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mile-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
