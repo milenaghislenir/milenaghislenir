@@ -27,3 +27,5 @@
   <img align="center" alt="Mile-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mile-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
+  ![Snake animation](https://github.com/milenaghislenir/milenaghislenir/blob/output/github-contribution-grid-snake.svg)
