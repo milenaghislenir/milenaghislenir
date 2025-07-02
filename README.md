@@ -28,4 +28,8 @@
 </div>
 <img align="right" height="100" width="100"alt="Milena" src="https://github.com/milenaghislenir/milenaghislenir/blob/gifmi.gif">
 
-  ![Snake animation](https://github.com/milenaghislenir/milenaghislenir/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+
+  <img alt="github-snake" src="https://github.com/milenaghislenir/milenaghislenir/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
